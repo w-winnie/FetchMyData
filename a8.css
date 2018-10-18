@@ -1,0 +1,46 @@
+body{
+    background-image: url("back2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#data{
+    color: #FFA094;
+    padding: 5px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+h1{
+     color: #FF9086;
+     text-align: center;
+}
+form{
+    margin: 1% 10% 1% 10%;
+    font-size:35px;
+    font-weight:bold;
+    position: absolute;
+    top: 10%;
+    right: 20px;
+    color:#BF6C64;
+}
+td{
+    text-align: right;
+}
+input[type=text]{
+    padding: 5px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+input[type=submit]{
+    Background-color:#7F4843;
+    color: white;
+    font-size: 40px;
+    margin-left: 65%;
+    border: 0.1px solid #7F4843;
+}
+input[type=submit]:focus{
+    Background-color:#AE625B;
+    color: white;
+    font-size: 40px;
+    margin-left: 65%;
+    border: 0.1px solid #7F4843;
+}
